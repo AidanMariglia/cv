@@ -1,0 +1,26 @@
+body {
+  background-color: #f3fbf1;
+}
+
+hr {
+  border-color: #d1e4d1;
+  border-width: 10px;
+  border-style: dotted none none none;
+  height: 0;
+  width: 10%;
+}
+
+h1{
+  color: #64868e;
+}
+
+h3{
+  color: #64868e;
+}
+
+.rounded {
+  object-fit: cover; 
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
